@@ -1,7 +1,3 @@
-<img align="right" height="246" src="https://lh3.googleusercontent.com/rd-gg-dl/AJfQ9KT907wvUePl73u87-M5Xr6z9e05K1nLR0fF4WS3NIF2RAKYUX7CIhQj-AeO_3Xqvr_AOWqBMFkjNKEXjzs5gJW0GmuFwswC-n8RSDQRpB6bcXNbiXOBsRiespo8DpqikEI2hV2YvhGrQRxxrjdJ_YPWNGdM24LF0-MvtH9TuXYW-C24fTEMp9Io62DBi_r6iCpHJwyH3JZydE8jMrks7fDSuC1pGt8rQiLBPpB4BJDNx9zwUxY2k02usjEKNuBJgDJlODuWKYSfv7EPl4PAw6fWTqv9oeC8y88NGjYLvW22xk7_IYYtoKoSN6khlxtOOFBS9TEn3yWOUAR6o0zsInCbDDK37k23bL3BjUJF5bSeXo-EDwxpElNZtvLY2nrh8W2rwDTvq5iwccJrpMgdJtggWTxVcPV75CvnCUALJbmfuGc4qJ_E_HV-o-gkO-trRmFX_cHrnSnN1hLv_5XKUIvVnxyNB0EWJ0GuSqMNQO_b8QFeCWk8hUr0cny_BpVBR-z7CHayT4WbjQVMDemHvDiPx2nYUwPQX244HcVzse5ulFEerav8cnSuytfvOflXlcrCdW18BzncFLJO_kazZyiz0jR5nAaSRtJOsEfHz4xYS1vjzwy0I-vkm2RKxssIzBPIEF55nGgKbECbXTs5IDSbir3p_2bJ8q43rij8dQO-anJaAu0SlsEPWyi7DIzlxVw4CFntNMjdHspjHTU33AGsDaD5onsYPTY3u4rBRWZnmGmovTFJ88vAZeANPimLBxm8scYrYuL6gAa1AOxpMxeheJnCqjCbt1lgCzytOuQLi_ybrEfACTGAhEWc3zUGnT--lSshNnlswTJcUZUkkIj7Ipmz5OOYY5MYmu1UJ36P8Vfy-DXAqsduH_VjYpM1NHBr5GKXYX2NkJUmFuD-WSLsdCLgnxxtpBu1ZqVxKLBdewgUnDjigJuTHzxL4nDC3VAqBlrMYKV1TTQKtMUSEz_7BuEzMkQHB3nVEXaXXAJta8XWkC8VDMIPDSW9Jj8lR0rVEcuQu-NnjkEA_4u-hjVN-CEwisNSdVbZrgqDKryoivsSpswF_Ed4GiQQgEajpHDMQdA9AXedaHqZpaV6EbOY1KK-RrP7EFQ4Xr-cgCHXzKb8MffAUya_Sk3Bbc9b-AHAExzg4aDd3Zi3FJ4QYjccNsmKv8PWj4qmzIl89txlEJpcMMvp6jnxrBNuaWw9InaS7LSJ8AWlYA-xI5xOwklurkiRmbgnRoMyGql3_vKryMz_ioE8sLIrSEDlYulVGCFne-HqLhEgwJA1oVNDSn92RIcFaSeuCAVwLNc9BnjFoffhnxh_XfuN7yOMFtGLEwZDqChxKWGhz1jdbU1b0F28jzjidcfW6S3B48eB7-wrvfdPtwpmVprFmQAsnJAhfM5iRQSi56TPTuOdN_ElLsDvWwA=s1024"  />
-
-###
-
 <h1 align="left">Olá, sou Natasha Souza 👋</h1>
 
 ###
@@ -50,6 +46,12 @@
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif"  />
 </div>
 
 ###

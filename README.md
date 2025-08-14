@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">My name is Natasha and I'm a dev front-end</p>
-
-###
-
 <h2 align="left">Desenvolvedor Front-end</h2>
 
 ###

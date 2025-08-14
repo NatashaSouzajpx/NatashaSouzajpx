@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's new?</h1>
+<h1 align="left">Olá, sou Natasha Souza 👋</h1>
 
 ###
 
@@ -6,15 +6,15 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Desenvolvedor Front-end</h2>
 
 ###
 
-<p align="left">📚 I'm currently learning Java, CSS and Nodejs</p>
+<p align="left">Sou um desenvolvedora front-end com foco em criar experiências digitais intuitivas e visualmente atraentes. Estou sempre em busca de aprender novas tecnologias para aprimorar minhas habilidades.s</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">💻 Tecnologias e Ferramentas</h2>
 
 ###
 
